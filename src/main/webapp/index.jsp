@@ -11,7 +11,11 @@
 	<jsp:forward page="WEB-INF/views/main.jsp"/>
 	<h2>곽재훈 수정</h2>
 	<h2>김법규 수정</h2>
+<<<<<<< HEAD
 	<h2>김유찬 수정 법규가 다시 수정함.</h2>
 
+=======
+	<h3>김법규 1차 수정</h3>
+>>>>>>> bubkyu
 </body>
 </html>
