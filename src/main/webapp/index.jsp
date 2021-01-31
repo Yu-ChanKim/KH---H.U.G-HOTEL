@@ -9,5 +9,7 @@
 </head>
 <body>
 	<jsp:forward page="WEB-INF/views/main.jsp"/>
+	<h2>곽재훈 수정</h2>
+
 </body>
 </html>
