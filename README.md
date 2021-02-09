@@ -1,2 +1,1 @@
-# KH-H.U.G_HOTEL
-KH - FINAL PROJECT
+# Spring_LegacyProject
